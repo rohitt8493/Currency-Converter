@@ -9,7 +9,7 @@
 A simple Currency Converter app that allows users to convert one currency into another using real-time exchange rates. The application uses a free API to fetch live exchange rates and perform the currency conversion. It features a clean and intuitive user interface.
 
 ## 🌐 Live Demo
-Check out the live demo of the Currency Converter App [here](https://currencies-convert.netlify.app/).
+Check out the live demo of the Currency Converter App .
 
 ## 📸 Project Preview
 Here's a sneak peek of the Currency Converter App:
