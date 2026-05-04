@@ -28,23 +28,8 @@ Here's a sneak peek of the Currency Converter App:
 - **CSS** : For styling the page and making it visually appealing.
 - **JavaScript** : For fetching live exchange rates via API, handling user inputs, and performing the conversion.
 
-## 🧑‍💻 Getting Started
 
-Follow the steps below to clone and use the project locally:
 
-### 1. Prerequisites
-Make sure you have **Git** installed. If not, you can download it [here](https://git-scm.com/).
-
-### 2. Clone the Repository
-```bash
-git clone https://github.com/DevGoyalG/Currency-Converter-App.git
-```
-
-### 3. Set up the API Key
-- Sign up for a free account at [ExchangeRate-API](https://www.exchangerate-api.com/) or any other similar service.
-- Once you get your API Key, create a **".env"** file in the project directory and paste the key like this:
-```bash
-API_KEY = your_api_key_here
 ```
 
 ## 🤝 Contributing
