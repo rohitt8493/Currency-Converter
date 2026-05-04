@@ -55,6 +55,6 @@ Contributions are welcome! If you have suggestions or want to report an issue, f
 
 ## 👨‍💻 Created by
 This project was created and is maintained by:
-**Dev Goyal**
+**Rohit**
 
 Feel free to reach out if you have any questions or suggestions! ❤️
